@@ -4,7 +4,6 @@
 
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on different python package repository.
 - 📫 How to reach me using : rohitkawle810@gmail.com
 
 
