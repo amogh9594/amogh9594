@@ -5,7 +5,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Data Analyst, Power BI, and Web Development .\
 ✍️ &nbsp;In my free time, I pursue Gaming and Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
