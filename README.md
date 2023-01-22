@@ -10,8 +10,8 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at rohitkawle810@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://amogh9594.github.io/amoghkawleportfolio/) for more details about me.\
-📄 &nbsp;Please have a look at my [No Code Portfolio Website (jemi)](https://jemi.so/amogh-kawle).\
-📄 &nbsp;Simple and Fastest Browser [Download Here](https://mega.nz/file/YVYlSIZL#nLocXizmQBSDH9TrRr2hAQ6c5p-EFSaiTHyUUoFPcEY).
+📄 &nbsp;Please have a look at my [No Code Portfolio Website (jemi)](https://jemi.so/amogh-kawle).
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -33,8 +33,9 @@
 ![Blogger](https://img.shields.io/badge/-Blogger-05122A?style=flat&logo=Blogger)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=orange)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=orange)\
 
+📄 &nbsp;Simple and Fastest Browser [Download Here](https://mega.nz/file/YVYlSIZL#nLocXizmQBSDH9TrRr2hAQ6c5p-EFSaiTHyUUoFPcEY).
 
 ### ⚙️ &nbsp;GitHub Analytics
 
