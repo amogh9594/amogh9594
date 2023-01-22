@@ -33,7 +33,7 @@
 ![Blogger](https://img.shields.io/badge/-Blogger-05122A?style=flat&logo=Blogger)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=orange)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=orange)
 
 📄 &nbsp;Simple and Fastest Browser [Download Here](https://mega.nz/file/YVYlSIZL#nLocXizmQBSDH9TrRr2hAQ6c5p-EFSaiTHyUUoFPcEY).
 
